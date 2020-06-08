@@ -1,5 +1,5 @@
 # BoundServiceMVVM
-This repository is solution proposal on how data can flows in the app that uses MVVM and bound service.
+This repository is solution proposal on how can data flow in the app that uses MVVM and bound service.
 
 Here are links to some of the discussions on the subject:
 - https://www.reddit.com/r/androiddev/comments/be7326/best_practice_to_use_android_services_with/
